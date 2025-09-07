@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+#*.csv
+*.txt
+*.html
+*.json
+#/data/*
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.pdf
+*.zip
+*.tar.gz
+ProfilingReport.html
+ProfilingReport.json
